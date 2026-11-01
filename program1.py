@@ -1,5 +1,5 @@
-print("Squares using GIT-EXAM-2")
+print("Squares of numbers from 1 to 10")
 
 for i in range(1, 11):
     square = i * i
-    print(i, "square is", square)
+    print(f"Square of {i} is {square}")
